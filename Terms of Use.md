@@ -1,1 +1,3 @@
-
+- Observe Discord's ToS at all time
+- Observe the server rules of servers you are in
+- Do not spam application commands
